@@ -1,7 +1,6 @@
 @font-face {
   font-family: 'athrmade';
-  src: url('https://cdn.jsdelivr.net/gh/ahmedFayed60/custom-fonts/MyCustomFont.woff2') format('woff2'),
-       url('https://cdn.jsdelivr.net/gh/ahmedFayed60/custom-fonts/MyCustomFont.woff') format('woff');
+  src: url(HTBaybarsText-Light.woff2) format('woff2'),
   font-weight: normal;
   font-style: normal;
 }
