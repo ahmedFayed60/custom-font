@@ -1,8 +1,10 @@
 @font-face {
-  font-family: 'athrmade';
-  src: url("HTBaybarsText-Light.otf") format("opentype")
+    font-family: 'HTBaybarsText-Light'; 
+    src: url('fonts/HTBaybarsText-Light.woff2') format('woff2'); /* Ensure the correct path */
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
-  font-family: 'athrmade', sans-serif;
+    font-family: 'HTBaybarsText-Light', sans-serif; /* Reference the font-family correctly */
 }
